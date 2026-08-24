@@ -1,7 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/RushikeshNarote/RushikeshNarote/main/assets/profile-banner.png" alt="Rushikesh Narote" width="100%">
-
+<img src="profile-banner.png">
 </div>
 
 <br>
