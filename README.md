@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Rushikesh Narote a.k.a. LegendRushii28
+# 👋 Hi, I'm Rushikesh Narote (a.k.a. LegendRushii28)
 
 ### Computer Science Student • Developer • Creator
 
