@@ -12,12 +12,12 @@
 
 ## 👨‍💻 About Me
 
-I'm **Rushikesh Narote**, a Computer Science student at **VIT Pune** interested in software development, AI and cybersecurity.
+I'm **Rushikesh Narote**, a Computer Science student at **VIT Pune** interested in Full Stack software development, AI and cybersecurity.
 
-- 🎓 B.Tech Computer Science @ VIT Pune
-- 💻 Building software and AI-based projects
+- 🎓 Love doing projects in SpringBoot and MERN
+- 💻 Building software and Artificial Intelligence-based projects 
 - 🧠 Improving DSA and problem-solving
-- 🚀 Exploring backend development, AI and cybersecurity
+- 🚀 Learning ML and cybersecurity
 
 ---
 
