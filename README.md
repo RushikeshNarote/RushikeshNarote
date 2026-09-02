@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="profile-banner.png" alt="Rushikesh Narote" width="100%">
+<img src="profile-banner.gif" alt="Rushikesh Narote" width="100%">
 
 <br><br>
 
